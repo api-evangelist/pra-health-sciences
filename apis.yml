@@ -1,0 +1,52 @@
+name: PRA Health Sciences
+description: |
+  PRA Health Sciences was a global contract research organization (CRO) headquartered
+  in Raleigh, North Carolina, providing outsourced clinical development services to
+  pharmaceutical and biotechnology companies. On July 1, 2021 ICON plc completed its
+  acquisition of PRA Health Sciences in a cash-and-stock transaction valued at
+  approximately $12 billion, forming one of the world's largest healthcare research
+  organizations. Following the acquisition the PRA Health Sciences brand has been
+  fully retired and operations were merged into ICON. The legacy prahs.com domain
+  redirects to iconplc.com / icongroup.com and no PRA-branded developer programs,
+  public APIs, SDKs, or technical documentation remain.
+url: https://github.com/api-evangelist/pra-health-sciences/blob/main/apis.yml
+humanURL: https://www.iconplc.com
+image: https://avatars.githubusercontent.com/u/api-evangelist
+tags:
+  - Clinical Trials
+  - Contract Research Organization
+  - CRO
+  - Life Sciences
+  - Pharmaceutical
+  - Biotechnology
+  - Healthcare
+  - Defunct
+  - Acquired
+created: '2026-05-05'
+modified: '2026-05-23'
+specificationVersion: '0.18'
+type: Index
+aid: pra-health-sciences
+access: 3rd-Party
+status: Defunct
+acquisition:
+  acquirer: ICON plc
+  acquirerUrl: https://www.iconplc.com
+  announcedDate: '2021-02-24'
+  closedDate: '2021-07-01'
+  value: $12B (cash + stock)
+  successor: ICON plc (icongroup.com / iconplc.com)
+apis: []
+common:
+  - type: Acquirer
+    url: https://www.iconplc.com
+  - type: AcquirerAnnouncement
+    url: https://www.iconplc.com/insights/press-releases/2021-press-releases/icon-completes-acquisition-of-pra-health-sciences/
+  - type: SuccessorEntity
+    url: https://www.icongroup.com
+  - type: GitHub
+    url: https://github.com/api-evangelist/pra-health-sciences
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    url: https://apievangelist.com
