@@ -29,6 +29,8 @@ type: Index
 aid: pra-health-sciences
 access: 3rd-Party
 status: Defunct
+deprecated: true
+deprecatedReason: "PRA Health Sciences is defunct. Retained for historical reference."
 acquisition:
   acquirer: ICON plc
   acquirerUrl: https://www.iconplc.com
