@@ -11,6 +11,17 @@ description: |
   public APIs, SDKs, or technical documentation remain.
 url: https://github.com/api-evangelist/pra-health-sciences/blob/main/apis.yml
 humanURL: https://www.iconplc.com
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://avatars.githubusercontent.com/u/api-evangelist
 tags:
   - Clinical Trials
