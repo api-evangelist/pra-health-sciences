@@ -72,6 +72,8 @@ acquisition:
   successor: ICON plc (icongroup.com / iconplc.com)
 apis: []
 common:
+  - type: Website
+    url: https://www.iconplc.com/
   - type: Acquirer
     url: https://www.iconplc.com
   - type: AcquirerAnnouncement
