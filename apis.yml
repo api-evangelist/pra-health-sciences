@@ -1,14 +1,23 @@
 name: PRA Health Sciences
-description: |
-  PRA Health Sciences was a global contract research organization (CRO) headquartered
+description: 'PRA Health Sciences was a global contract research organization (CRO) headquartered
+
   in Raleigh, North Carolina, providing outsourced clinical development services to
+
   pharmaceutical and biotechnology companies. On July 1, 2021 ICON plc completed its
+
   acquisition of PRA Health Sciences in a cash-and-stock transaction valued at
-  approximately $12 billion, forming one of the world's largest healthcare research
+
+  approximately $12 billion, forming one of the world''s largest healthcare research
+
   organizations. Following the acquisition the PRA Health Sciences brand has been
+
   fully retired and operations were merged into ICON. The legacy prahs.com domain
+
   redirects to iconplc.com / icongroup.com and no PRA-branded developer programs,
+
   public APIs, SDKs, or technical documentation remain.
+
+  '
 url: https://github.com/api-evangelist/pra-health-sciences/blob/main/apis.yml
 humanURL: https://www.iconplc.com
 deliveryModel:
@@ -35,34 +44,34 @@ accessModel:
   method: derived
 image: ''
 tags:
-  - Clinical Trials
-  - Contract Research Organization
-  - CRO
-  - Life Sciences
-  - Pharmaceuticals
-  - Biotechnology
-  - Healthcare
-  - Defunct
-  - Acquired
+- Clinical Trials
+- Contract Research Organization
+- CRO
+- Life Sciences
+- Pharmaceuticals
+- Biotechnology
+- Healthcare
+- Defunct
+- Acquired
 tags_raw:
-  - Clinical Trials
-  - Contract Research Organization
-  - CRO
-  - Life Sciences
-  - Pharmaceutical
-  - Biotechnology
-  - Healthcare
-  - Defunct
-  - Acquired
+- Clinical Trials
+- Contract Research Organization
+- CRO
+- Life Sciences
+- Pharmaceutical
+- Biotechnology
+- Healthcare
+- Defunct
+- Acquired
 created: '2026-05-05'
-modified: '2026-05-23'
+modified: '2026-09-15'
 specificationVersion: '0.23'
 type: Index
 aid: pra-health-sciences
 access: 3rd-Party
 status: Defunct
 deprecated: true
-deprecatedReason: "PRA Health Sciences is defunct. Retained for historical reference."
+deprecatedReason: PRA Health Sciences is defunct. Retained for historical reference.
 acquisition:
   acquirer: ICON plc
   acquirerUrl: https://www.iconplc.com
@@ -72,17 +81,18 @@ acquisition:
   successor: ICON plc (icongroup.com / iconplc.com)
 apis: []
 common:
-  - type: Website
-    url: https://www.iconplc.com/
-  - type: Acquirer
-    url: https://www.iconplc.com
-  - type: AcquirerAnnouncement
-    url: https://www.iconplc.com/insights/press-releases/2021-press-releases/icon-completes-acquisition-of-pra-health-sciences/
-  - type: SuccessorEntity
-    url: https://www.icongroup.com
-  - type: GitHub
-    url: https://github.com/api-evangelist/pra-health-sciences
+- type: Website
+  url: https://www.iconplc.com/
+- type: Acquirer
+  url: https://www.iconplc.com
+- type: AcquirerAnnouncement
+  url: https://www.iconplc.com/insights/press-releases/2021-press-releases/icon-completes-acquisition-of-pra-health-sciences/
+- type: SuccessorEntity
+  url: https://www.icongroup.com
+- type: GitHub
+  url: https://github.com/api-evangelist/pra-health-sciences
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
-    url: https://apievangelist.com
+- FN: API Evangelist
+  email: info@apievangelist.com
+  url: https://apievangelist.com
+x-status: defunct
