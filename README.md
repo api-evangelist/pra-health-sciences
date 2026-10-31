@@ -1,4 +1,4 @@
-# pra-health-sciences
+# PRA Health Sciences
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,31 +64,36 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profile for PRA Health Sciences in the API Evangelist network. Fortune F1000 (rank 769).
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-## Status: Defunct / Acquired
+**Status:** PRA Health Sciences is defunct. Retained for historical reference.
 
-PRA Health Sciences was a global contract research organization (CRO) headquartered
-in Raleigh, North Carolina. On **July 1, 2021** **ICON plc** completed its
-acquisition of PRA Health Sciences in a cash-and-stock transaction valued at
-approximately **$12 billion**, creating one of the largest healthcare research
-organizations in the world.
+PRA Health Sciences was a global contract research organization (CRO) headquartered in Raleigh, North Carolina, providing outsourced clinical development services to pharmaceutical and biotechnology companies. On July 1, 2021 ICON plc completed its acquisition of PRA Health Sciences in a cash-and-stock transaction valued at approximately $12 billion, forming one of the world's largest healthcare research organizations. Following the acquisition the PRA Health Sciences brand has been fully retired and operations were merged into ICON. The legacy prahs.com domain redirects to iconplc.com / icongroup.com and no PRA-branded developer programs, public APIs, SDKs, or technical documentation remain.
 
-Following the close of the acquisition the PRA Health Sciences brand was fully
-retired and operations were merged into ICON. The legacy `prahs.com` domain
-redirects to ICON properties. There are **no PRA-branded developer programs,
-public APIs, SDKs, or technical documentation** remaining to profile.
+**Areas:** Clinical Trials · Contract Research Organization · CRO · Life Sciences · Pharmaceuticals · Biotechnology · Healthcare · Defunct · Acquired
 
-## Successor
+## PRA Health Sciences on APIs.io (historical record)
 
-- ICON plc — https://www.iconplc.com
-- ICON Group — https://www.icongroup.com
-- Acquisition announcement — https://www.iconplc.com/insights/press-releases/2021-press-releases/icon-completes-acquisition-of-pra-health-sciences/
+Everything profiled for PRA Health Sciences is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pra-health-sciences/](https://apis.io/providers/pra-health-sciences/)** — or go straight to one of the APIs or properties below.
 
-## Files
+## Where to find this API
 
-- [`apis.yml`](./apis.yml) — Network index entry documenting defunct status and acquisition lineage.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## APIs Documented
+- [Website](https://www.iconplc.com/)
 
-0 — provider is defunct. No public API surface exists under the PRA Health Sciences brand.
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PRA Health Sciences: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pra-health-sciences/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
